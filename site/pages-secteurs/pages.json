@@ -1,0 +1,706 @@
+[
+  {
+    "id": "lavalfr",
+    "path": "/gestion-copropriete-laval/",
+    "lang": "fr-CA",
+    "content_file": "content/gestion-copropriete-laval.html",
+    "title": "Gestion de copropriété à Laval | Gestion Ajax",
+    "meta_description": "Gestionnaire de copropriété à Laval : Chomedey, Vimont, Sainte-Rose. 9 syndicats gérés à Laval, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+    "h1": "Gestion de copropriété à Laval",
+    "canonical": "https://gestionajax.ca/gestion-copropriete-laval/",
+    "hreflang": {
+      "fr-CA": "https://gestionajax.ca/gestion-copropriete-laval/",
+      "en-CA": "https://gestionajax.ca/en/condo-management-laval/",
+      "x-default": "https://gestionajax.ca/gestion-copropriete-laval/"
+    },
+    "og": {
+      "type": "website",
+      "site_name": "Gestion Ajax Inc.",
+      "title": "Gestion de copropriété à Laval | Gestion Ajax",
+      "description": "Gestionnaire de copropriété à Laval : Chomedey, Vimont, Sainte-Rose. 9 syndicats gérés à Laval, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+      "url": "https://gestionajax.ca/gestion-copropriete-laval/",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp",
+      "image_width": 1800,
+      "image_height": 1200,
+      "image_alt": "Tours de condos à Laval au bord de la rivière des Prairies",
+      "locale": "fr_CA",
+      "locale_alternate": "en_CA"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Gestion de copropriété à Laval | Gestion Ajax",
+      "description": "Gestionnaire de copropriété à Laval : Chomedey, Vimont, Sainte-Rose. 9 syndicats gérés à Laval, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp"
+    },
+    "hero_image": {
+      "src": "/img/secteurs/secteur-laval-hero-1920.webp",
+      "alt": "Tours de condos à Laval au bord de la rivière des Prairies",
+      "credit": "Photo : Hubert Figuière, CC BY-SA 2.0, via Wikimedia Commons"
+    },
+    "section_image": {
+      "src": "/img/secteurs/secteur-laval-ile-paton-1200.webp",
+      "alt": "Immeuble de condominiums sur l'île Paton, Chomedey, Laval",
+      "caption": "Île Paton, Chomedey — photo : Laurent Bélanger, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gestionajax.ca/gestion-copropriete-laval/#webpage",
+          "url": "https://gestionajax.ca/gestion-copropriete-laval/",
+          "name": "Gestion de copropriété à Laval | Gestion Ajax",
+          "description": "Gestionnaire de copropriété à Laval : Chomedey, Vimont, Sainte-Rose. 9 syndicats gérés à Laval, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+          "inLanguage": "fr-CA",
+          "isPartOf": {
+            "@id": "https://gestionajax.ca/#website"
+          },
+          "about": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp",
+            "width": 1800,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://gestionajax.ca/gestion-copropriete-laval/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gestionajax.ca/gestion-copropriete-laval/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://gestionajax.ca/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Laval",
+              "item": "https://gestionajax.ca/gestion-copropriete-laval/"
+            }
+          ]
+        },
+        {
+          "@type": "Service",
+          "@id": "https://gestionajax.ca/gestion-copropriete-laval/#service",
+          "name": "Gestion de copropriété à Laval",
+          "serviceType": "Gestion de syndicats de copropriété",
+          "provider": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Laval"
+            }
+          ],
+          "url": "https://gestionajax.ca/gestion-copropriete-laval/",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "CAD",
+            "lowPrice": 29,
+            "highPrice": 37
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://gestionajax.ca/gestion-copropriete-laval/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Gérez-vous les petites copropriétés à Laval ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui, à partir de 6 unités. Un syndicat de six unités a les mêmes obligations légales et comptables qu'un grand ensemble; c'est précisément pour ces syndicats que Gestion Ajax a été fondée."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Le tarif est-il le même à Laval qu'à Montréal ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. De 29 $ à 37 $ par unité par mois avant taxes selon la taille de la copropriété, tous services compris, sans frais d'ouverture de dossier."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Que comprend exactement la gestion ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Trente tâches, de la tenue des livres à l'assemblée générale annuelle en passant par les appels d'offres et l'urgence 24/7."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Que se passe-t-il en cas d'urgence la nuit ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Appelez le +1 514 548-2758 : la ligne répond 24 heures sur 24, 7 jours sur 7. Répondre à l'appel est toujours sans frais; seule l'intervention sur place en dehors des heures d'ouverture est facturée."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Qui sera notre gestionnaire ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Un gestionnaire attitré, que vous joignez par son nom, appuyé par une équipe de dix professionnels."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Combien de temps pour recevoir une soumission ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Le calculateur donne votre tarif mensuel à l'écran en quelques secondes. Avec le formulaire de soumission, votre soumission personnalisée (PDF) arrive par courriel dans les minutes qui suivent."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "rsfr",
+    "path": "/gestion-copropriete-rive-sud/",
+    "lang": "fr-CA",
+    "content_file": "content/gestion-copropriete-rive-sud.html",
+    "title": "Copropriété Rive-Sud : Longueuil, Brossard | Gestion Ajax",
+    "meta_description": "Gestionnaire de copropriété à Longueuil, Brossard et Boucherville. 7 syndicats gérés sur la Rive-Sud, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+    "h1": "Gestion de copropriété sur la Rive-Sud : Longueuil, Brossard, Boucherville",
+    "canonical": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+    "hreflang": {
+      "fr-CA": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+      "en-CA": "https://gestionajax.ca/en/condo-management-south-shore/",
+      "x-default": "https://gestionajax.ca/gestion-copropriete-rive-sud/"
+    },
+    "og": {
+      "type": "website",
+      "site_name": "Gestion Ajax Inc.",
+      "title": "Copropriété Rive-Sud : Longueuil, Brossard | Gestion Ajax",
+      "description": "Gestionnaire de copropriété à Longueuil, Brossard et Boucherville. 7 syndicats gérés sur la Rive-Sud, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+      "url": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp",
+      "image_width": 1800,
+      "image_height": 1200,
+      "image_alt": "Nouvelles tours de copropriété à Solar Uniquartier, Brossard",
+      "locale": "fr_CA",
+      "locale_alternate": "en_CA"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Copropriété Rive-Sud : Longueuil, Brossard | Gestion Ajax",
+      "description": "Gestionnaire de copropriété à Longueuil, Brossard et Boucherville. 7 syndicats gérés sur la Rive-Sud, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp"
+    },
+    "hero_image": {
+      "src": "/img/secteurs/secteur-rive-sud-hero-1920.webp",
+      "alt": "Nouvelles tours de copropriété à Solar Uniquartier, Brossard",
+      "credit": null
+    },
+    "section_image": {
+      "src": "/img/secteurs/secteur-rive-sud-pont-1200.webp",
+      "alt": "Pont Samuel-De Champlain au coucher du soleil, vers Montréal",
+      "caption": "Le pont Samuel-De Champlain, entre Brossard et Montréal"
+    },
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gestionajax.ca/gestion-copropriete-rive-sud/#webpage",
+          "url": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+          "name": "Copropriété Rive-Sud : Longueuil, Brossard | Gestion Ajax",
+          "description": "Gestionnaire de copropriété à Longueuil, Brossard et Boucherville. 7 syndicats gérés sur la Rive-Sud, tarifs publiés de 29 $ à 37 $ par unité, urgence 24/7.",
+          "inLanguage": "fr-CA",
+          "isPartOf": {
+            "@id": "https://gestionajax.ca/#website"
+          },
+          "about": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp",
+            "width": 1800,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://gestionajax.ca/gestion-copropriete-rive-sud/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gestionajax.ca/gestion-copropriete-rive-sud/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Accueil",
+              "item": "https://gestionajax.ca/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Rive-Sud",
+              "item": "https://gestionajax.ca/gestion-copropriete-rive-sud/"
+            }
+          ]
+        },
+        {
+          "@type": "Service",
+          "@id": "https://gestionajax.ca/gestion-copropriete-rive-sud/#service",
+          "name": "Gestion de copropriété sur la Rive-Sud : Longueuil, Brossard, Boucherville",
+          "serviceType": "Gestion de syndicats de copropriété",
+          "provider": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Longueuil"
+            },
+            {
+              "@type": "City",
+              "name": "Brossard"
+            },
+            {
+              "@type": "City",
+              "name": "Boucherville"
+            },
+            {
+              "@type": "City",
+              "name": "Candiac"
+            },
+            {
+              "@type": "City",
+              "name": "Saint-Jean-sur-Richelieu"
+            },
+            {
+              "@type": "City",
+              "name": "Contrecœur"
+            }
+          ],
+          "url": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "CAD",
+            "lowPrice": 29,
+            "highPrice": 37
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://gestionajax.ca/gestion-copropriete-rive-sud/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Gérez-vous des copropriétés à Longueuil et à Brossard ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui. Nous gérons aujourd'hui des syndicats à Longueuil, à Brossard, à Candiac, à Saint-Jean-sur-Richelieu et à Contrecœur, et nous desservons aussi Boucherville."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Le tarif est-il plus élevé sur la Rive-Sud ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Non. Les mêmes paliers publiés s'appliquent : de 29 $ à 37 $ par unité par mois avant taxes, selon la taille de la copropriété, tous services compris."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Que comprend exactement la gestion ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Trente tâches incluses, de la tenue des livres aux assemblées générales, aux appels d'offres et à l'urgence 24/7."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Comment se passe le changement de gestionnaire ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Après une consultation gratuite de 30 minutes avec votre conseil, nous récupérons les dossiers, les registres et les accès auprès de votre gestionnaire actuel. Vous n'avez rien à faire."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Qui s'occupera de notre immeuble ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Un gestionnaire attitré, appuyé par une équipe de dix professionnels, dont une administratrice agréée (Adm.A)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Vos copropriétaires ont-ils accès à leurs documents ?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Oui, par le portail Anacondo : documents, avis de cotisation et état de la copropriété, accessibles en tout temps."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "lavalen",
+    "path": "/en/condo-management-laval/",
+    "lang": "en-CA",
+    "content_file": "content/en-condo-management-laval.html",
+    "title": "Condo Management in Laval | Gestion Ajax",
+    "meta_description": "Condo syndicate manager in Laval: Chomedey, Vimont, Sainte-Rose. 9 syndicates managed in Laval, published rates from $29 to $37 per unit, 24/7 emergency.",
+    "h1": "Condo management in Laval",
+    "canonical": "https://gestionajax.ca/en/condo-management-laval/",
+    "hreflang": {
+      "fr-CA": "https://gestionajax.ca/gestion-copropriete-laval/",
+      "en-CA": "https://gestionajax.ca/en/condo-management-laval/",
+      "x-default": "https://gestionajax.ca/gestion-copropriete-laval/"
+    },
+    "og": {
+      "type": "website",
+      "site_name": "Gestion Ajax Inc.",
+      "title": "Condo Management in Laval | Gestion Ajax",
+      "description": "Condo syndicate manager in Laval: Chomedey, Vimont, Sainte-Rose. 9 syndicates managed in Laval, published rates from $29 to $37 per unit, 24/7 emergency.",
+      "url": "https://gestionajax.ca/en/condo-management-laval/",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp",
+      "image_width": 1800,
+      "image_height": 1200,
+      "image_alt": "Condo towers in Laval along the Rivière des Prairies",
+      "locale": "en_CA",
+      "locale_alternate": "fr_CA"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Condo Management in Laval | Gestion Ajax",
+      "description": "Condo syndicate manager in Laval: Chomedey, Vimont, Sainte-Rose. 9 syndicates managed in Laval, published rates from $29 to $37 per unit, 24/7 emergency.",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp"
+    },
+    "hero_image": {
+      "src": "/img/secteurs/secteur-laval-hero-1920.webp",
+      "alt": "Condo towers in Laval along the Rivière des Prairies",
+      "credit": "Photo: Hubert Figuière, CC BY-SA 2.0, via Wikimedia Commons"
+    },
+    "section_image": {
+      "src": "/img/secteurs/secteur-laval-ile-paton-1200.webp",
+      "alt": "Condominium building on Île Paton, Chomedey, Laval",
+      "caption": "Île Paton, Chomedey — photo: Laurent Bélanger, CC BY-SA 4.0, Wikimedia Commons"
+    },
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gestionajax.ca/en/condo-management-laval/#webpage",
+          "url": "https://gestionajax.ca/en/condo-management-laval/",
+          "name": "Condo Management in Laval | Gestion Ajax",
+          "description": "Condo syndicate manager in Laval: Chomedey, Vimont, Sainte-Rose. 9 syndicates managed in Laval, published rates from $29 to $37 per unit, 24/7 emergency.",
+          "inLanguage": "en-CA",
+          "isPartOf": {
+            "@id": "https://gestionajax.ca/#website"
+          },
+          "about": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://gestionajax.ca/img/secteurs/og-secteur-laval-1800.webp",
+            "width": 1800,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://gestionajax.ca/en/condo-management-laval/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gestionajax.ca/en/condo-management-laval/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gestionajax.ca/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Laval",
+              "item": "https://gestionajax.ca/en/condo-management-laval/"
+            }
+          ]
+        },
+        {
+          "@type": "Service",
+          "@id": "https://gestionajax.ca/en/condo-management-laval/#service",
+          "name": "Condo management in Laval",
+          "serviceType": "Condominium syndicate management",
+          "provider": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Laval"
+            }
+          ],
+          "url": "https://gestionajax.ca/en/condo-management-laval/",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "CAD",
+            "lowPrice": 29,
+            "highPrice": 37
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://gestionajax.ca/en/condo-management-laval/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Do you manage small co-ownerships in Laval?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, from 6 units. A six-unit syndicate has the same legal and accounting obligations as a large complex; Gestion Ajax was founded precisely for these syndicates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the rate the same in Laval as in Montréal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. $29 to $37 per unit per month before taxes depending on the size of the co-ownership, all services included, no file-opening fee."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What exactly does management include?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thirty tasks, from bookkeeping to the annual general meeting, calls for tenders and the 24/7 emergency line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What happens in an emergency at night?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Call +1 514 548-2758: the line is answered 24 hours a day, 7 days a week. Answering the call is always free; only on-site intervention outside office hours is billed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who will our manager be?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A dedicated manager you reach by name, backed by a team of ten professionals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How fast can we get a quote?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The calculator shows your monthly rate on screen in seconds. With the quote form, your personalized quote (PDF) arrives by email within minutes."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "rsen",
+    "path": "/en/condo-management-south-shore/",
+    "lang": "en-CA",
+    "content_file": "content/en-condo-management-south-shore.html",
+    "title": "Condo Management Longueuil, Brossard | Gestion Ajax",
+    "meta_description": "Condo manager in Longueuil, Brossard and Boucherville. 7 syndicates managed on the South Shore, published rates from $29 to $37 per unit, 24/7 emergency.",
+    "h1": "Condo management on the South Shore: Longueuil, Brossard, Boucherville",
+    "canonical": "https://gestionajax.ca/en/condo-management-south-shore/",
+    "hreflang": {
+      "fr-CA": "https://gestionajax.ca/gestion-copropriete-rive-sud/",
+      "en-CA": "https://gestionajax.ca/en/condo-management-south-shore/",
+      "x-default": "https://gestionajax.ca/gestion-copropriete-rive-sud/"
+    },
+    "og": {
+      "type": "website",
+      "site_name": "Gestion Ajax Inc.",
+      "title": "Condo Management Longueuil, Brossard | Gestion Ajax",
+      "description": "Condo manager in Longueuil, Brossard and Boucherville. 7 syndicates managed on the South Shore, published rates from $29 to $37 per unit, 24/7 emergency.",
+      "url": "https://gestionajax.ca/en/condo-management-south-shore/",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp",
+      "image_width": 1800,
+      "image_height": 1200,
+      "image_alt": "New condo towers at Solar Uniquartier, Brossard",
+      "locale": "en_CA",
+      "locale_alternate": "fr_CA"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Condo Management Longueuil, Brossard | Gestion Ajax",
+      "description": "Condo manager in Longueuil, Brossard and Boucherville. 7 syndicates managed on the South Shore, published rates from $29 to $37 per unit, 24/7 emergency.",
+      "image": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp"
+    },
+    "hero_image": {
+      "src": "/img/secteurs/secteur-rive-sud-hero-1920.webp",
+      "alt": "New condo towers at Solar Uniquartier, Brossard",
+      "credit": null
+    },
+    "section_image": {
+      "src": "/img/secteurs/secteur-rive-sud-pont-1200.webp",
+      "alt": "Samuel-De Champlain Bridge at sunset, looking toward Montréal",
+      "caption": "The Samuel-De Champlain Bridge, between Brossard and Montréal"
+    },
+    "jsonld": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://gestionajax.ca/en/condo-management-south-shore/#webpage",
+          "url": "https://gestionajax.ca/en/condo-management-south-shore/",
+          "name": "Condo Management Longueuil, Brossard | Gestion Ajax",
+          "description": "Condo manager in Longueuil, Brossard and Boucherville. 7 syndicates managed on the South Shore, published rates from $29 to $37 per unit, 24/7 emergency.",
+          "inLanguage": "en-CA",
+          "isPartOf": {
+            "@id": "https://gestionajax.ca/#website"
+          },
+          "about": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "url": "https://gestionajax.ca/img/secteurs/og-secteur-rive-sud-1800.webp",
+            "width": 1800,
+            "height": 1200
+          },
+          "breadcrumb": {
+            "@id": "https://gestionajax.ca/en/condo-management-south-shore/#breadcrumb"
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://gestionajax.ca/en/condo-management-south-shore/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://gestionajax.ca/en/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "South Shore",
+              "item": "https://gestionajax.ca/en/condo-management-south-shore/"
+            }
+          ]
+        },
+        {
+          "@type": "Service",
+          "@id": "https://gestionajax.ca/en/condo-management-south-shore/#service",
+          "name": "Condo management on the South Shore: Longueuil, Brossard, Boucherville",
+          "serviceType": "Condominium syndicate management",
+          "provider": {
+            "@id": "https://gestionajax.ca/#organization"
+          },
+          "areaServed": [
+            {
+              "@type": "City",
+              "name": "Longueuil"
+            },
+            {
+              "@type": "City",
+              "name": "Brossard"
+            },
+            {
+              "@type": "City",
+              "name": "Boucherville"
+            },
+            {
+              "@type": "City",
+              "name": "Candiac"
+            },
+            {
+              "@type": "City",
+              "name": "Saint-Jean-sur-Richelieu"
+            },
+            {
+              "@type": "City",
+              "name": "Contrecœur"
+            }
+          ],
+          "url": "https://gestionajax.ca/en/condo-management-south-shore/",
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "CAD",
+            "lowPrice": 29,
+            "highPrice": 37
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "@id": "https://gestionajax.ca/en/condo-management-south-shore/#faq",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Do you manage condos in Longueuil and Brossard?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. We currently manage syndicates in Longueuil, Brossard, Candiac, Saint-Jean-sur-Richelieu and Contrecœur, and we also serve Boucherville."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are rates higher on the South Shore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The same published tiers apply: $29 to $37 per unit per month before taxes, depending on the size of the co-ownership, all services included."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What exactly does management include?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thirty included tasks, from bookkeeping to general meetings, calls for tenders and the 24/7 emergency line."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does changing managers work?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After a free 30-minute consultation with your board, we collect the files, registers and access from your current manager. You have nothing to do."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who will look after our building?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A dedicated manager, backed by a team of ten professionals including a chartered administrator (Adm.A)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can co-owners access their documents?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, through the Anacondo portal: documents, assessment notices and the co-ownership's status, available at any time."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
