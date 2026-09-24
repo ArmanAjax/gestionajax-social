@@ -1,0 +1,33 @@
+{
+  "hero-laval": {
+    "file": "Towers (28291204929).jpg",
+    "what": "Condo towers in Laval along the Rivière des Prairies, seen from Cartierville",
+    "author": "Hubert Figuière",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Towers_(28291204929).jpg",
+    "credit_line_fr": "Photo : Hubert Figuière, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_line_en": "Photo: Hubert Figuière, CC BY-SA 2.0, via Wikimedia Commons"
+  },
+  "hero-rive-sud": {
+    "file": "Solar Uniquartier.jpg",
+    "what": "Solar Uniquartier, Brossard, near the REM Du Quartier station",
+    "author": "elysia",
+    "license": "CC0 (public domain, no credit required)",
+    "source": "https://commons.wikimedia.org/wiki/File:Solar_Uniquartier.jpg"
+  },
+  "laval-ile-paton (alternative)": {
+    "file": "Paton1.jpg",
+    "what": "Paton1 condominium building, Île Paton, Chomedey, Laval",
+    "author": "Laurent Bélanger",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paton1.jpg",
+    "credit_line_fr": "Photo : Laurent Bélanger, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "rive-sud-pont": {
+    "file": "Unsplash hkbI1RvY-aM",
+    "what": "Samuel-De Champlain Bridge at sunset, looking toward Montréal (found under Brossard, Quebec)",
+    "author": "Narno Beats",
+    "license": "Unsplash License (free, no credit required)",
+    "source": "https://unsplash.com/photos/cable-stayed-bridge-over-water-at-sunset-hkbI1RvY-aM"
+  }
+}
